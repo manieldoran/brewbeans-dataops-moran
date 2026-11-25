@@ -2,7 +2,7 @@
 from pathlib import Path
 import pandas as pd
 
-GROUPE = "dan-moran"  # Remplacer 1 par le numéro de votre groupe.
+GROUPE = "groupe1"  # Remplacer 1 par le numéro de votre groupe.
 source = Path("data/reference/ventes_reference.csv")
 livraison = Path(f"data/{GROUPE}/livraison_corrigee.csv")
 sortie = Path(f"data/{GROUPE}/ventes.csv")
