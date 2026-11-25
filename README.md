@@ -30,3 +30,8 @@ python scripts/groupe1/preparer_ventes.py
 Cette commande n'est utilisable qu'après la préparation des fichiers du groupe. Remplacer `groupe1` pour les autres binômes et adapter la constante `GROUPE` du script.
 
 Les données sont entièrement fictives. Ne pas publier de données clients réelles ni de secrets.
+
+## Impact de la correction BB-041
+- Transactions : 43 → 43
+- Montant BB-041 : 40 EUR → 45 EUR
+- Chiffre d’affaires : 448.20 EUR → 453.20 EUR
